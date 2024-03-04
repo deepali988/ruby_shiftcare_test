@@ -2,12 +2,6 @@
 
 This is a minimalist command-line application built in Ruby that allows you to search for clients by name and find clients with duplicate emails based on a JSON dataset.
 
-## Prerequisites
-
-Before you begin, make sure you have the following installed:
-
-- [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
-
 ## Setup
 
 1. Clone or download this repository to your local machine.
